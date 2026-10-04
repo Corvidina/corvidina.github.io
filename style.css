@@ -1,0 +1,20 @@
+@font-face {
+    font-family: pathwayGothic1;
+    src: url(fonts/PathwayGothicOne-Regular.ttf);
+}
+@font-face {
+    font-family: firaSansCondensed;
+    src: url(fonts/FiraSansCondensed-Regular.ttf);
+}
+
+h1{
+    font-family: pathwayGothic1;
+}
+
+h2{
+    font-family: firaSansCondensed;
+}
+
+p {
+    font-family: firaSansCondensed;
+}
